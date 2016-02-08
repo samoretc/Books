@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "test": "gulp test",
+    "watch": "gulp watch"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "4.12.3",
+    "mongoose": "4.0.3",
+    "superagent": "1.2.0",
+    "wagner-core": "0.0.7"
+  },
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "gulp-mocha": "2.0.1",
+    "mocha": "2.2.4"
+  }
+}
